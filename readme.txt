@@ -3,6 +3,7 @@
 This project is related to the paper :
 [Identifying neuropathies through time series analyses of postural tests, 
 Claudio Meneses V., Jorge Littin C., David Coo Aqueveque., Juan Guerrero-Henriquez, Martin Vargas M.] 
+https://doi.org/10.1016/j.gaitpost.2022.09.090
 
 If you use this algorithm in your research work, please cite this paper.
 
